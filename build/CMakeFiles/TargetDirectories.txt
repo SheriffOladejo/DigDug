@@ -1,0 +1,3 @@
+/Users/sheriffoladejo/Desktop/digdug/build/CMakeFiles/DigDugClone.dir
+/Users/sheriffoladejo/Desktop/digdug/build/CMakeFiles/edit_cache.dir
+/Users/sheriffoladejo/Desktop/digdug/build/CMakeFiles/rebuild_cache.dir

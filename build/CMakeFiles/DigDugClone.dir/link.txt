@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch x86_64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/DigDugClone.dir/src/main.cpp.o -o DigDugClone  /usr/local/Cellar/raylib/5.5/lib/libraylib.dylib -framework IOKit -framework Cocoa -framework OpenGL -L/usr/local/Cellar/raylib/5.5/lib -lraylib
